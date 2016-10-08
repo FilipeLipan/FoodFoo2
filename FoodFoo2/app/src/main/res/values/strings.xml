@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FoodFoo</string>
+    <string name="mainCourse">Main course</string>
+    <string name="entry">Entry</string>
+    <string name="dessert">Dessert</string>
+    <string name="drinks">Drinks</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="total">Total</string>
+</resources>
